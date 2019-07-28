@@ -27,3 +27,4 @@ requestObj.getUserinfo("suhadzain", (user: User) => {
     })
 
 })
+console.log("End Project")
